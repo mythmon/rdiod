@@ -1,0 +1,11 @@
+{
+  "name": "rdiod",
+  "node-main": "index.js",
+  "node-remote": "<local>",
+  "main": "http://localhost:8572/",
+  "author": "Mike Cooper <mythmon@gmail.com>",
+  "license": "MIT",
+  "window": {
+    "show": false
+  }
+}
